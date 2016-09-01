@@ -1,0 +1,21 @@
+{
+  "name": "pagerank",
+  "version": "1.0.0",
+  "description": "Compute the Google PageRank for a set of pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pagerank",
+    "nodejs",
+    "search"
+  ],
+  "author": "Jonathon Hill <jhill9693@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "q": "^1.4.1",
+    "simplecrawler": "^1.0.1"
+  }
+}
